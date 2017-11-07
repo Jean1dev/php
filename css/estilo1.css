@@ -1,0 +1,243 @@
+body{
+	margin:0;
+	padding:0;
+	background:#F0F0E1;
+}
+#inicial{
+	width:1100px;
+	height:150px;
+	margin:0 auto;
+}
+.registro{
+
+margin-top:100px;
+
+
+}
+
+
+#form_busca1{
+    font-family:calibri;
+	float:left;
+	margin:200px 0 0 400px;
+	}
+
+#form_busca input[type=submit]{
+	width:107px;
+	height:26px;
+	
+	}
+#busca{
+width:200px;
+font-family:calibri;
+}
+
+
+.botao11{
+float:right;
+margin-right:50px;
+color:#007FFF;
+font:14px verdana;
+font-weight:bold;	
+font-family:calibri;
+}
+#site{
+background:#F0F0E1;
+	width:1200px;
+	
+	margin:0 auto;
+}
+#conteudo{
+font-family:calibri;
+background:#F0F0E1;
+border-radius:6px;
+width:100%;
+min-height:300px;
+display:block;
+
+
+}
+.lista{
+float:left;
+width:210px;
+height:330px;
+margin-left:80px;
+}
+
+/* FORMULARIO DE CADASTRO DE PRODUTO*/
+#formulario{
+font-family:calibri;
+float:left;
+margin-left:10px;
+}
+
+}
+
+
+
+#form_2{
+font-family:calibri;
+margin-top:250px;
+height:50px;
+margin-right:
+text-decoration:none;
+font-family:verdana;
+
+}
+
+
+#topo{
+	height:130px;
+	width:1354px;
+	margin-left:-80px;
+	background:#343434;
+
+}
+/*NADA POR ENQUNTO*/
+
+#logo_topo{
+	float:left;
+	margin-top:-20px;
+	margin-left:-90px;
+	
+}
+/*formulario de login*/
+#form_login{
+color:#f8f8f8;
+font-size:20px;
+	float:right;
+	margin:10px 50px 0 0;
+	width: 198px;
+	height: 127px;
+    font-family:calibri;	
+}
+
+
+#form_login input[type=submit]{
+	width:107px;
+	height:26px;
+	font-family:calibri;
+}
+
+#form_login label {
+color:white;
+}
+
+#form_login a{
+    margin-left:100px;
+	text-decoration:none;
+	color:white;
+	font:20px calibri;
+	font-weight:bold;
+	font-family:calibri;
+    
+	
+}
+
+
+#form_login a{
+	color:white;
+	font-size:15px;
+	
+}
+/*formulario de busca*/
+#form_busca{
+	float:left;
+	margin:65px 0 0 -20px;
+}
+.barra{
+height:25px;
+width:200px;
+border-radius:4px;
+
+}
+
+#form_busca input[type=submit]{
+	width:100px;
+	height:33px;
+	border-radius:4px;
+	font-family:'calibri';
+	font-size:18px;
+	
+	}
+#alte{
+margin-right:30px;
+}	
+
+/*menu interativo*/
+#menuinterativo {
+	float:left;
+	border:1px solid;
+	width:1354px;
+	height:40px;
+	background:#81b900;
+    color:#70a83b;
+	margin-left:-80px;
+	margin-top:-10px;
+	}
+	
+
+
+ul{
+
+	display:inline;
+
+}
+ul li{
+	float:left;
+	display:inline;
+	
+}
+
+li ul{
+	display:none;
+	position:absolute;
+	
+}
+
+ul li a{
+	text-decoration:none;
+	display:block;
+    font-size:100%;
+	font-family:'calibri';	
+	padding:10px;
+	color:#f8f8f8;
+	margin-left:110px;
+	
+}
+
+li:hover ul{
+background:#343434;
+border-radius:6px;
+
+float:right;
+	display:inline;
+	margin:0 auto;
+}
+
+.into{
+background:blue;
+
+
+}
+li ul li{
+   
+	float:none;
+	margin:0;
+}
+#rodape{
+background:#343434;
+height:90px;
+width:1354px;
+margin-top:900px;
+margin-left:-80px;
+}
+
+#rodape img{
+margin-top:-30px;
+
+
+
+}
+
+	

@@ -1,0 +1,42 @@
+#entrar{
+margin:0;
+width:320px;
+height:150px;
+padding:50px;
+
+font-family:'calibri';
+font-size:12px;
+margin-top:150px;
+margin-left:450px;
+}
+.login{
+width:250px;
+    height:30px;
+	margin-top:40px;
+	margin-left:5px;
+	}
+
+	
+.senha{
+margin-top:6px;
+width:250px;
+height:30px;
+
+
+}	
+#entrar{
+background-color:#fff;
+
+font-family:'calibri';
+font-size:16px;
+
+}
+#botao{
+background:#81b900;
+border-radius:8px;
+border-color:#81b900;
+width:100px;
+height:35px;
+margin:10px;
+margin-left:45px;
+}

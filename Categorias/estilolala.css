@@ -1,0 +1,175 @@
+body{
+	margin:0;
+	padding:0;
+	background:#F0F0E1;
+}
+#inicial{
+	width:1200px;
+	heigth:150px;
+	margin:0 auto;
+}
+
+#form_busca1{
+    
+	float:left;
+	margin:200px 0 0 400px;
+	}
+
+#form_busca1 input[type=submit]{
+	width:107px;
+	height:26px;
+	background:url(Img/lupa.png);
+	}
+#busca{
+width:200px;
+
+}
+
+
+.botao11{
+float:right;
+margin-right:50px;
+color:#007FFF;
+font:14px verdana;
+font-weight:bold;	
+}
+#site{
+background:#F0F0E1;
+	width:1200px;
+	margin:0 auto;
+}
+
+
+#menulateral{
+}
+#conteudo{
+border-radius:6px;
+width:290px;
+height:100px;
+float:center;
+
+}
+
+#form_2{
+margin-top:250px;
+
+height:50px;
+text-decoration:none;
+font-family:verdana;
+
+}
+
+#topo{
+	height:165px;
+	width:1200px;
+	border-radius:6px;
+	background:#00B22D;
+}
+
+#logo_topo{
+	float:left;
+	margin:20px;
+}
+
+#form_login{
+	float:right;
+	margin:25px 50px 0 0;
+	width: 198px;
+	height: 127px;
+	
+}
+
+#form_login input[type=submit]{
+	color:#FFF;
+	font:14px arial;
+	font-weight:bold;
+	padding:5px;
+	border-radius:5px;
+	
+	border:none;
+}
+
+#form_login a{
+	text-decoration:none;
+	color:#FFF;
+	font:20px arial;
+	font-weight:bold;
+}
+
+#form_login a:hover{
+	color:#F39;
+}
+
+#form_busca{
+	float:left;
+	margin:65px 0 0 50px;
+}
+
+#form_busca input[type=submit]{
+	width:107px;
+	height:26px;
+	background:url(Img/lupa.png);
+	}
+	
+
+/*menu interativo*/
+#menuinterativo {
+	float:center;
+	border:1px solid;
+	width:1200px;
+	height:40px;
+	background:#93FF26;
+	border-radius:6px;
+    color:#93FF26;
+	
+	
+}
+
+/*#menuinterativo ul li .menu_pri{
+	border-top:5px solid #000;
+
+	
+	
+}
+#menuinterativo ul li .menu_pri:hover{
+	border-top:5px solid 
+
+}
+
+*/
+
+ul{
+
+	display:inline;
+}
+ul li{
+	float:left;
+	display:inline;
+}
+
+li ul{
+	display:none;
+	position:absolute;
+}
+
+ul li a{
+	text-decoration:none;
+	display:block;
+    font-size:100%;
+	font-family:'verdana';	
+	padding:10px;
+	color:#000;
+	margin-left:120px;
+}
+
+li:hover ul{
+	display:inline;
+	margin:0;
+}
+
+li ul li{
+	float:none;
+	margin:0;
+}
+
+

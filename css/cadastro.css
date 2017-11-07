@@ -1,0 +1,128 @@
+body{
+	margin:0;
+	padding:0;
+	background:#F0F0E1;
+}
+.botao11{
+float:right;
+margin-top:-80px;
+margin-right:80px;
+color:#007FFF;
+font:14px calibri;
+font-weight:bold;	
+}
+#img{
+margin-top:20px;
+
+
+}
+
+#dados{
+margin:0;
+width:0;
+
+margin-left:500px;
+font-family:'calibri';
+font-size:16px;
+
+}
+#faca{
+width:300px;
+margin-left:10px;
+font-family:'calibri';
+font-size:16px;
+
+
+}
+#dados input{
+border-radius:6px;
+font-family:'calibri';
+font-size:16px;
+
+
+}
+
+#pessoais{
+margin:0;
+width:0;
+margin-left:500px;
+font-family:'calibri';
+font-size:16px;
+
+}
+
+#pessoais input{
+border-radius:6px;
+font-family:'calibri';
+
+}
+
+#titulo{
+height:150px;
+margin-left:580px;
+font-family:'calibri';
+
+}
+
+#tudo{
+	height:165px;
+	width:1200px;
+	margin:0 auto;
+	border-radius:6px;
+	background:#00B22D;
+}
+
+#nome{
+  position:relative;
+    left:37%;
+    top:29%;
+    width:250px;
+    height:20px;
+	}
+#telefone{
+  position:relative;
+    left:37%;
+    top:29%;
+   width:250px;
+    height:20px;
+	}
+#endereco{
+	  position:relative;
+    left:37%;
+    top:29%;
+    width:250px;
+    height:20px;
+	}
+#email{
+  position:relative;
+    left:37%;
+    top:29%;
+    width:250px;
+    height:20px;
+	}
+#login1{
+  position:relative;
+    left:37%;
+    top:29%;
+    width:250px;
+    height:20px;
+	}
+#senha1{
+	  position:relative;
+    left:37%;
+    top:29%;
+   width:250px;
+    height:20px;
+	}
+#cadastrar{
+background:#81b900;
+border-radius:8px;
+border-color:#81b900;
+width:100px;
+height:35px;
+margin:10px;
+margin-right:20px;
+}
+
+
+
